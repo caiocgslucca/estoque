@@ -1,2 +1,0 @@
-# estoque
-Controle de estoque
